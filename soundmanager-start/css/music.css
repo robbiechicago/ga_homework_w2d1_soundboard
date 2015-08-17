@@ -1,0 +1,52 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  font-family: 'Codystar', cursive;
+}
+
+#container {
+  text-align: center;
+}
+
+#top-image {
+  display: inline-block;
+  width: auto;
+}
+
+#top-image img {
+  display: inline-block;
+  width: 600px;
+  /*margin: 0 auto;*/
+  text-align: center;
+  /*border: 1px solid pink;*/
+}
+
+#bottom-links ul li {
+  display: inline-block;
+  color: white;
+  text-decoration: none;
+  list-style: none;
+}
+
+button {
+  margin: 5px;
+  font-size: 16px;
+  border: 1px dotted white;
+  border-radius: 3px;
+  background-color: black;
+  color: white; 
+  outline: none;
+}
+
+button:hover {
+  border: 1px dotted red;
+}
+
+
+
+
+
